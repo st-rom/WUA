@@ -15,3 +15,6 @@ Downloading and processing all Declarations
 
 ### highest_waste
 All info from declarations sorted by highets waste generators/recyclers
+
+### decl_comperator
+!do not look there!
